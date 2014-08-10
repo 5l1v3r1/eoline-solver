@@ -1,0 +1,7 @@
+name: cube_solver
+description: A sample web application
+dependencies:
+  browser: any
+  cube:
+    git: git://github.com/unixpickle/cube.git
+    version: 0.0.2
